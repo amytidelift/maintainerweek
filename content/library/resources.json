@@ -50,3 +50,12 @@
         }
     ]
 }
+
+{
+  "title": "The 2021 Tidelift open source maintainer survey",
+  "author": "Tidelift",
+  "description": "In early 2021, Tidelift fielded its first-ever comprehensive survey of open source maintainers",
+  "link": "https://tidelift.com/subscription/the-tidelift-maintainer-survey",
+  "type": "survey",
+  "topics": "Open source, open source maintainers"
+}
